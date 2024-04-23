@@ -4,17 +4,17 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>About Me</title>
-    <link rel="stylesheet" href="static/css/stylesheet.css">
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/stylesheet.css') }}">
 </head>
 <body>
     <header>
         <h1>About Me</h1>
         <nav>
             <ul>
-                <li><a href="index.html">Home</a></li>
-                <li><a href="about.html">About</a></li>
-                <li><a href="socials.html">Socials</a></li>
-                <li><a href="experience.html">Experience</a></li>
+                <li><a href="/">Home</a></li>
+                <li><a href="/about">About</a></li>
+                <li><a href="/socials">Socials</a></li>
+                <li><a href="/experience">Experience</a></li>
             </ul>
         </nav>
     </header>
