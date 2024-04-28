@@ -85,3 +85,9 @@ footer {
     color: #555; /* Dark gray footer text */
     font-size: 14px; /* Smaller footer text size */
 }
+
+
+footer p {
+    font-size: 14px;
+    color: #888;
+}
