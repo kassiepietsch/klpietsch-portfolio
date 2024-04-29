@@ -2,6 +2,8 @@ from flask import Flask, render_template
 
 app = Flask(__name__)
 
+app.static_folder = 'static'
+
 # Route for the home page
 @app.route('/')
 def home():
