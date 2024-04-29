@@ -24,5 +24,9 @@ def socials():
 def experience():
     return render_template('experience.html')
 
+@app.route('/cookie-popup')
+def cookie_policy():
+    return render_template('cookie_popup.html')
+
 if __name__ == '__main__':
     app.run(debug=True)
