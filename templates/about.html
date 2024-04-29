@@ -38,9 +38,9 @@
     <footer>
         <p>&copy; 2024 My Portfolio</p>
         <p>Tagging number: G-D113J544YK</p>
-        <a href="policy/privacy-policy.html">Privacy Policy</a> |
-        <a href="policy/terms-and-conditions.html">Terms and Conditions</a> |
-        <a href="policy/cookie-popup.html">Cookie Policy</a>
+        <a href="{{ url_for('static', filename='policy/private-policy.html') }}">Privacy Policy</a> |
+        <a href="{{ url_for('static', filename='policy/terms-and-conditions.html') }}">Terms and Conditions</a> |
+        <a href="{{ url_for('static', filename='policy/cookie-popup.html') }}">Cookie Policy</a>
     </footer>
 </body>
 </html>
