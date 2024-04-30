@@ -6,6 +6,7 @@
 ![HTML](https://img.shields.io/badge/HTML-5-orange?style=for-the-badge&logo=html5&logoColor=white)
 
 ## Visit my portfolio 
+[![Visit my Portfolio](https://img.shields.io/badge/Visit%20my%20Portfolio-9B59B6?style=for-the-badge&logo=google-chrome&logoColor=white)](https://kassiepietsch.me/)
 
 
 ## project goal
