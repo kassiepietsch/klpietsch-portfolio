@@ -11,8 +11,8 @@ The goal of this project was to create an engaging portfolio website the encapsu
 ## web pages
 I created a series of webpages with engaging and interactive contect to see my ecperience, resume, and information post graduation. There are links to social media accounts that users can connect with me, as well as contact information to reach out with any questions or opportunities.
 
-### to run my application or create your own
-## if you want to create a portfolio of your own...
+## to run my application or create your own
+### if you want to create a portfolio of your own...
 
 Clone this repository to local computer
 
