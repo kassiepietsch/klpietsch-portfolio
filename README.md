@@ -11,5 +11,19 @@ The goal of this project was to create an engaging portfolio website the encapsu
 ## web pages
 I created a series of webpages with engaging and interactive contect to see my ecperience, resume, and information post graduation. There are links to social media accounts that users can connect with me, as well as contact information to reach out with any questions or opportunities.
 
-### using my code or create your own
+### to run my application or create your own
+## if you want to create a portfolio of your own...
+
+Clone this repository to local computer
+
+Create a new virtual environment
+
+Windows: python -m venv ./venv
+Mac: python3 -m venv ./venv
+Activate the new virtual environment
+
+Windows: .\venv\Scripts\activate
+Mac: source ./venv/bin/activate
+Install the dependencies pip install -r requirements.txt
+
  
